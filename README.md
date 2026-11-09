@@ -1,3 +1,8 @@
+## Portfolio Preview
+
+![Wafa Chamkhi Portfolio](screenshots/portfolio-home.png)
+
+
 # Wafa Chamkhi | Personal Portfolio
 
 Welcome to my personal portfolio! This project showcases my professional profile, technical skills, educational background, experience, certifications, and development projects.
